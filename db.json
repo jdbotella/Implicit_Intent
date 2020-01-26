@@ -2,8 +2,13 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "je suis en retarde"
     }
+    {
+      "id": 2,
+      "title": "je crois que je suis beau"
+    }
+    
   ],
   "profile": {
     "name": "chernenko"
